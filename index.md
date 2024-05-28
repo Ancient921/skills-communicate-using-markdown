@@ -6,3 +6,7 @@
 ``` javascript
 var sMessage = "Coo";
 ```
+
+- [x] Manage pull requests
+- [ ] Eat bread
+- [ ] Harass a statue or two
